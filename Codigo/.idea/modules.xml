@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Selva.iml" filepath="$PROJECT_DIR$/.idea/modules/Selva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selva.iml" filepath="$PROJECT_DIR$/.idea/modules/selva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/selva.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/selva.app.iml" />
     </modules>
   </component>
 </project>
